@@ -6,7 +6,7 @@
 
 ### 🔭 My Projects
 
-- **[PHP300Framework](https://php300.cn)** - A lightweight PHP development scaffold.
+- **[PHP300Framework](https://www.php300.cn)** - A lightweight PHP development scaffold.
 
 ### 💬 Reach me
 
