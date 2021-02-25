@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hi, I'm Jones.
 
-<!--
-**xcg340122/xcg340122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 I'm a backend developer.
+- :heartpulse: Be interested in all new and interesting projects.
+- :computer: Favorite development language:Python/NodeJS/C#/PHP
 
-Here are some ideas to get you started:
+### 🔭 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[PHP300Framework](https://php300.cn)** - A lightweight PHP development scaffold.
+
+### 💬 Reach me
+
+- **Wechat**: 15056902037
+- **Telegram**: [click contact me](https://t.me/bylikes)
+- **Personal homepage**: [pro.5v00.com](https://pro.5v00.com)
