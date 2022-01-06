@@ -1,4 +1,4 @@
-👋 Hi, I'm Jones.
+👋 Hi, I'm ChunGui.
 
 - 😄 I'm a backend developer.
 - :heartpulse: Be interested in all new and interesting projects.
