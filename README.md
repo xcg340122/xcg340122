@@ -10,6 +10,6 @@
 
 ### 💬 Reach me
 
-- **Wechat/WhatsApp/Phone**: +86 15056902037
+- **Wechat**: chungui10
 - **Telegram**: [click contact me](https://t.me/bylikes)
 - **Personal homepage**: [pro.5v00.com](https://pro.5v00.com)
