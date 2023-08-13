@@ -10,5 +10,4 @@
 
 ### 💬 Reach me
 
-- **Wechat**: chungui10
 - **Personal homepage**: [pro.5v00.com](https://pro.5v00.com)
